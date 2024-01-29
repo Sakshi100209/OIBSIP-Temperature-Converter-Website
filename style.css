@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(180, 180, 227);
+}
+.box{
+    border-radius:30px ;
+    width: 500px;
+    background-color: rgb(231, 233, 240);
+    margin-top: 100px;
+    margin-left: 460px;
+    padding: 30px;
+    text-align: center;
+    font-size: 20px;
+}
+p{
+    color: grey;
+}
+button{
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 20px;
+   font-weight: bold;
+   color: white;
+   background-color: rgb(58, 160, 223);
+   padding-left: 100px;
+   padding-right: 100px;
+   border: none;
+}
+input{
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+}
